@@ -13,7 +13,7 @@ def get_random_word(words):
 def display_word(word, guessed_letters):
     return " ".join([letter if letter in guessed_letters else "_" for letter in word])
 
-# Main function to run the game
+# Main function to run 
 def play_hangman():
     word = get_random_word(words)
     guessed_letters = set()
