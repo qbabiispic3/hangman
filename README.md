@@ -1,4 +1,4 @@
-# Hangman Game - A Word Guessing Game
+# Hangman Game - Guessing Game
 
 This repository contains a simple implementation of the classic word guessing game "Hangman" written in Python. The goal is to guess the hidden word by suggesting letters one at a time.
 
