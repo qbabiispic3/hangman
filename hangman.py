@@ -1,5 +1,4 @@
 import random
-import os
 
 # List of words for the game
 words = ["python", "hangman", "challenge", "openai", "developer", "programming", "algorithm", "keyboard"]
