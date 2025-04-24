@@ -1,5 +1,4 @@
 # Hangman Game - Guessing Game
-
 This repository contains a simple implementation of the classic word guessing game "Hangman" written in Python. The goal is to guess the hidden word by suggesting letters one at a time.
 
 ## Game Rules
@@ -15,8 +14,5 @@ This repository contains a simple implementation of the classic word guessing ga
 
 1. Clone or download the repository to your local machine.
 2. Make sure you have Python 3.x installed.
-3. Run the script:
-    ```bash
-    python hangman.py
-    ```
+3. Run the script.
 4. Follow the on-screen instructions to guess the word.
