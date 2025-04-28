@@ -6,6 +6,7 @@ words = ["python", "hangman", "challenge", "openai", "developer", "programming",
 # Function to choose a random word from the list
 def get_random_word(words):
     return random.choice(words)
+print(words)
 
 # Function to display the current progress of the word
 def display_word(word, guessed_letters):
