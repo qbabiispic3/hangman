@@ -13,6 +13,5 @@ This repository contains a simple implementation of the classic word guessing ga
 ## How to Run the Game
 
 1. Clone or download the repository to your local machine.
-2. Make sure you have Python 3.x installed.
 3. Run the script.
 4. Follow the on-screen instructions to guess the word.
