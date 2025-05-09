@@ -5,6 +5,7 @@ words = ["python", "hangman", "challenge", "openai", "developer", "programming",
 
 # Function to choose a random word from the list
 def get_random_word(words):
+def get_random_word(words):
     return random.choice(words)
 print(words)
 
