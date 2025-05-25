@@ -1,7 +1,8 @@
 import random
 
 # List of words for the game
-verbs = []
+verbs = ["python", "algorithm"]
+print()
 words = ["python", "hangman", "challenge", "openai", "developer", "programming", "algorithm", "keyboard"]
 
 # Function to choose a random word from the list
